@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "532863869608",
+    "firebase_url": "https://tweetso-865d9.firebaseio.com",
+    "project_id": "tweetso-865d9",
+    "storage_bucket": "tweetso-865d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532863869608:android:ad08b929a2657438",
+        "android_client_info": {
+          "package_name": "so.tweet.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532863869608-6irloqepog9f19l5tu89jst12rr64m0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OKixWQmq6JmyoY1DkozsLA2JeiKp0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532863869608:android:49aae562b9a2f58e",
+        "android_client_info": {
+          "package_name": "so.tweet.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532863869608-2ifkr5pbbs0q4lfo7ooseevkt51boh3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "so.tweet.tech",
+            "certificate_hash": "706058f97aeafdf2a811762ce2ec6fbc237dc97b"
+          }
+        },
+        {
+          "client_id": "532863869608-6irloqepog9f19l5tu89jst12rr64m0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OKixWQmq6JmyoY1DkozsLA2JeiKp0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532863869608-6irloqepog9f19l5tu89jst12rr64m0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532863869608:android:db6675c677ef3f76",
+        "android_client_info": {
+          "package_name": "so.tweetso.temp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532863869608-6irloqepog9f19l5tu89jst12rr64m0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OKixWQmq6JmyoY1DkozsLA2JeiKp0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532863869608:android:6cb51d2fb4d15ce4",
+        "android_client_info": {
+          "package_name": "so.tweet.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532863869608-6irloqepog9f19l5tu89jst12rr64m0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OKixWQmq6JmyoY1DkozsLA2JeiKp0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
